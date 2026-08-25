@@ -10,5 +10,5 @@
 | `/HttpsForceTLS1_0` | [Сертификаты и TLS](02-common-parameters.md#сертификаты-и-tls) |
 | `/L`, `/VL` | [Локализация](02-common-parameters.md#локализация) |
 | `/ClearCache`, `/C`, `/URL` | [Вспомогательные параметры](02-common-parameters.md#вспомогательные-параметры) |
-| `/DisableStartupMessages` | [Интерфейс](02-common-parameters.md#интерфейс) |
+| `/DisableStartupMessages` | [Прочие параметры](02-common-parameters.md#прочие-параметры) |
 | `/TestClient`, `/UILogRecorder` | [Тестирование](02-common-parameters.md#тестирование) |
